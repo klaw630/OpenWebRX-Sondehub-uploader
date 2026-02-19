@@ -1,0 +1,10 @@
+[station]
+station_lat = 0.00000
+station_lon = 0.00000
+station_alt = 000.0
+uploader_callsign = CHANGEME
+upload_listener_position = True
+uploader_antenna = Antenna
+sondehub_enabled = True
+sondehub_upload_rate = 15
+sondehub_contact_email = none@none.com
